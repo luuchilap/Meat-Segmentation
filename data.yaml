@@ -1,0 +1,7 @@
+train: C:\Users\ADMIN\Segmentation1\split\train  # train images (relative to 'path') 128 images
+val: C:\Users\ADMIN\Segmentation1\split\val # val images (relative to 'path') 128 images
+# test:  # test images (optional)
+
+# Classes
+nc: 2  # number of classes
+names: ['meat','meatless']  # class names
